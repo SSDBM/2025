@@ -38,6 +38,10 @@ When preparing the camera-ready version, please consider the following points:
    * Page size should be US-Letter 8.5in x 11in (around 21.59cm x 27.94cm).
    * All fonts must be Type 1 (scalable) or TrueType, and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file.
 
+## Important note to authors about the use of generative AI tools
+
+All authors should respect the ACM Policy on Authorship and use of generative AI tools and technologies (details on the policy are available at [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship).
+
 ## Important note to authors about the new ACM Open Access publishing model
 
 ACM has introduced a new open access publishing model for the International Conference Proceedings Series (ICPS). Authors based at institutions that are not yet part of the ACM Open program will be required to pay an article processing charge (APC) to publish their ICPS article in the ACM Digital Library, unless one of their co-authors' institutions is a member or they qualify for a waiver. To determine whether or not an APC will be applicable to your article, please follow the detailed guidance here: https://www.acm.org/publications/icps/author-guidance.
