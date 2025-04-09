@@ -27,6 +27,7 @@ Authors are invited to submit original, unpublished work. Submissions should inc
 - **StoreHub Survey (for Travel Award Consideration)**: To be eligible for a StoreHub travel award (students only), please complete the [StoreHub Community Insight Survey](https://forms.gle/c6fmQkiSrCYWQMij9).
 
 Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2025)
+The poster draft and the abstract should be combined into one file for submission.
 
 ## Important Dates:
 - Submission Deadline: ~~March 31~~ April 10th, 2025 (23:59 AoE)
