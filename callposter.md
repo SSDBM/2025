@@ -30,8 +30,8 @@ Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2025)
 The poster draft and the abstract should be combined into one file for submission.
 
 ## Important Dates:
-- Submission Deadline: ~~March 31~~ April 10th, 2025 (23:59 AoE)
-- Notification: April 21, 2025
+- Submission Deadline: ~~March 31~~ April 21st, 2025 (23:59 AoE)
+- Notification: April 25th, 2025
 
 ## Special Opportunity:  StoreHub Community Workshop & Student Travel Awards
 
