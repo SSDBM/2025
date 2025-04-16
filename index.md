@@ -16,7 +16,7 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 
 
 ## Announcements
-<!-- - [Accepted papers](accepted-papers.html) have been announced. -->
+- [Accepted papers](accepted-papers.html) have been announced.
 <!-- - The deadline for [Camera-ready](camera_ready.html) papers and [author registration](./register.md) is TBD 2025. -->
 <!-- - Registration is now open! -->
 - Call for Regular Papers is announced! Please see the [call for paper](./callpaper.md) for full details.
