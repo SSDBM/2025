@@ -16,7 +16,7 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 
 
 ## Announcements
-- Keynote speakers: Dr. Laura Biven (Chief Data Officer, Jefforson Lab), [Prof. Manish Parashar, Chief AI Officer for the University of Utah](https://www.manishparashar.org), and [Dr. Robert Ross, Deputy Division Director / Senior Computer Scientist](https://www.anl.gov/profile/robert-b-ross)
+- Keynote speakers: Dr. Laura Biven (Chief Data Officer, Jefferson Lab), [Prof. Manish Parashar, Chief AI Officer for the University of Utah](https://www.manishparashar.org), and [Dr. Robert Ross, Deputy Division Director / Senior Computer Scientist](https://www.anl.gov/profile/robert-b-ross)
 - [Registration](register.html) site is Open. Early bird registration ends on May 1st. 
 - [Accepted papers](accepted-papers.html) have been announced.
 <!-- - The deadline for [Camera-ready](camera_ready.html) papers and [author registration](./register.md) is TBD 2025. -->
