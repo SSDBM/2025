@@ -31,7 +31,7 @@ Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2025)
 
 ## Important Dates:
 - Submission Deadline: ~~April 10th~~ April 21st, 2025 (23:59 AoE)
-- Notification: April 25th, 2025
+- Notification: ~~April 25th~~May 4th, 2025
 
 ## Special Opportunity:  StoreHub Community Workshop & Student Travel Awards
 
