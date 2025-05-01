@@ -19,12 +19,6 @@ layout: default
     }
 </style>
 
-The program will consist of keynotes, research sessions, lightening talk session, poster session, reception, and conference banquet. 
-Each day will begin with registration and coffee.
-The research sessions will include presentations of full and short research papers. 
-The lightening talk session will include presentations of posters. 
-**All accepted short and demo papers and posters are expected to take part in the poster session.** 
-
 ### Day 1 (Monday, June 23rd) Overview
 
 | Time slot            | Session                                         | Speakers                                                                                               | Title                                                                                                  |
