@@ -15,9 +15,9 @@ All fees are in US Dollars.
 Registration includes breakfast, lunch, and coffee breaks with refreshments on all three days. On day 1 of the conference, there will be a reception at the Columbus Zoo, which is included in the registration. <br>
 
 
-|                  | Early (Until May 1st) | After May 1st  |
+|                  | Early (Until May 9th) | After May 9th  |
 |------------------|----------------|------------------|
-| Author    | $525       | N/A (register before May 1st)        |
+| Author    | $525       | N/A (register before May 9th)        |
 | Regular Attendee (non-student)    | $475       | $650        |
 | Student     | $350        | $400          |
 
@@ -27,7 +27,7 @@ Registration includes breakfast, lunch, and coffee breaks with refreshments on a
 All participants must be registered and are urged to register in advance. If the maximum attendee capacity is reached, the conference organizers reserve the right to refuse any registration.
 
 #### Authors:
-At least one author per paper must be registered at the full registration rate, regardless of whether or not they are students. For authors with multiple papers, one registration is required for each paper. The deadline for author registration is **May 1st, 2025**.
+At least one author per paper must be registered at the full registration rate, regardless of whether or not they are students. For authors with multiple papers, one registration is required for each paper. The deadline for author registration is **May 9th, 2025**.
 
 #### Students:
 Student fees are applicable only to full-time students. Students must be able to provide a proof of their student status.
