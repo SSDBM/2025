@@ -11,7 +11,7 @@ layout: default
 
 **ABSTRACT:** Open data is integral to the scientific process and a key enabler of innovations and discoveries across all disciplines, and essential to addressing important scientific and societal grand challenges, especially given the increasing use of AI/ML. As a result, open and equitable access to this data is more critical than ever. This talk will discuss the importance and urgency of open data access and explore some of the barriers and challenges to such access. It then introduces the vision and architecture of the National Data Platform project, as part of a broader national cyberinfrastructure, aimed at catalyzing an open and extensible data ecosystem, and highlights key use cases.
 
-<img src="./assets/images/parashar.png" align="right" border="1" width="160">
+<img src="./assets/images/parashar.jpg" align="right" border="1" width="160">
 
 **BIO:** Manish Parashar is the Chief AI Officer at the University of Utah. He is also the Director of the Scientific Computing and Imaging (SCI) Institute, Chair in Computational Science and Engineering, and Presidential Professor at the Kalhert School of Computing. Manish's expertise is in high-performance parallel and distributed computing, large-scale data management, and cyberinfrastructure. Manish is the founding chair of the IEEE Technical Community on High Performance Computing (TCHPC) and is a Fellow of AAAS, ACM, and IEEE.
 
