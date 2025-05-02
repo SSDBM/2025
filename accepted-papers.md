@@ -42,11 +42,11 @@ _Abhay Goyal, Sanjay Madria and Samuel Frimpong._
 **DTIO: Data Stack for AI-driven Workflows**
 _Keith Bateman, Neeraj Rajesh, Jaime Cernuda, Luke Logan, Bogdan Nicolae, Franck Cappello, Xian-He Sun and Anthony Kougkas._
 
-<!-- **FALCON: FPGA Accelerated Lightweight Updatable Learned Index** -->
-<!-- _Geetesh More, Suprio Ray and Kenneth B. Kent_ -->
+**FALCON: FPGA Accelerated Lightweight Updatable Learned Index** 
+_Geetesh More, Suprio Ray and Kenneth B. Kent_
 
-<!-- **An Adaptive Index for Oscillating Write-Heavy and Read-Heavy Workloads** -->
-<!-- _Lu Xing, Ruihong Wang and Walid G. Aref._ -->
+**An Adaptive Index for Oscillating Write-Heavy and Read-Heavy Workloads** 
+_Lu Xing, Ruihong Wang and Walid G. Aref._ 
 
 
 ## Accepted Short / Demo Research Papers
