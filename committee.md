@@ -28,6 +28,7 @@ Jean Luca Bez, Lawrence Berkeley National Laboratory<br>
 
 **Local Event Coordinators**<br>
 Hanqi Guo, The Ohio State University<br>
+Amanda Jovanovich, TDAI, The Ohio State University<br>
 
 **Web Chair**<br>
 Houjun Tang, Lawrence Berkeley National Laboratory<br>
