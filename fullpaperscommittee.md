@@ -14,7 +14,7 @@ layout: default
 
 * **Philippe Deniel**, CEA<br> 
 * **Hari Devarajan**, Lawrence Livermore National Laboratory<br> 
-* **Hasan Jamil**, Iowa State University<br> 
+* **Hasan Jamil**, University of Idaho<br> 
 * **Verena Kantere**, University of Ottawa<br> 
 * **Olga Kuchar**, Oak Ridge National Laboratory<br> 
 * **Michael Kuhn**, Otto von Guericke University Magdeburg<br> 
