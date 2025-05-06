@@ -59,9 +59,9 @@ layout: default
 | 2:15 pm - 3:00 pm    |          |    Anthony Kougkas, Suren Byna, and Xian-He Sun |     Storage Community discussion    |
 | 3:00 pm to 3:30 pm   | Coffee Break                          |
 | 3:30 pm to 4:00 pm   |          |    All attendees                                     |     Data Management and Storage Community Input      |
-| 4:00 pm to 4:55 pm   | Poster Introductions               |                            |                                                 |
+| 4:00 pm to 4:55 pm   | Poster Introductions               |  <a href="https://ssdbm.org/2025/accepted-posters">Accepted Posters</a>           |                                                 |
 | 4:55 pm to 5:00 pm   | Group photo                        |                            |                                                 |
-| 5:00 pm to 6:30 pm   | Posters reception                     |
+| 5:00 pm to 6:30 pm   | Posters reception                  | <a href="https://ssdbm.org/2025/accepted-posters">Accepted Posters</a>
 
 ### Day 3 (Wednesday, June 25th) Overview
 
