@@ -34,7 +34,7 @@ _Chenxu Niu, Wei Zhang, Mert Side and Yong Chen_
 _Yuta Nakamura, Xulu Chu, Ignacio Laguna and Tanu Malik_
 
 **Enriching Spatial Indexes For User-Centric And Context-Aware Points Of Interest Search**
-_Raghav Mittal, Ayaan Kakkar, Anirban Mondal, Mukesh Mohania, Ladjel Bellatreche and Yoshiharu Ishikawa_
+_Raghav Mittal, Ayaan Kakkar, Mukesh Mohania, Ladjel Bellatreche and Yoshiharu Ishikawa_
 
 **OGLe-Mine: Obstacle-infused Goal-conditioned Learning for Post-disaster Navigation in Underground Mine**
 _Abhay Goyal, Sanjay Madria and Samuel Frimpong._
