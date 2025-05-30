@@ -19,9 +19,17 @@ layout: default
 
 ## Keynote 2: [Rob Ross](https://www.anl.gov/profile/robert-b-ross)
 
-**TITLE:** TBD
+**TITLE:** Supporting Science Through Data Management Software
 
-**ABSTRACT:** TBD
+**ABSTRACT:** Successful science relies on data in many forms. Data management in computational science historically revolved around inputs and outputs of simulations and middleware libraries executed on HPC platforms. More recently, increasingly complex workflows, coupled with a greater variety of computational tasks, has prompted the development of new data management software to meet new requirements, including streaming services, specialized model repositories, and vector databases. Rapid change driven by AI and the incorporation of geographically distributed resources is altering the landscape yet again.
+This talk will first discuss recent progress, successes, and lessons learned through our efforts to better understand and accelerate the development of data management services for computational science. It then pivots to consider trends in how we pursue science and their implications for data management software going forward.
+
+
+<img src="./assets/images/RobRoss.jpeg" align="right" border="1" width="100">
+
+**BIO:** Rob Ross is a senior computer scientist and deputy division director for computer science in the Mathematics and Computer Science (MCS) Division at Argonne National Laboratory. He is internationally recognized for his research in high-performance computing (HPC), including innovative work on HPC storage, data analysis, and communication software. He serves as director of the DOE SciDAC RAPIDS Institute for Computer Science, Data, and Artificial Intelligence, a $7.8M/yr activity spanning 13 institutions helping scientists achieve breakthroughs using DOE HPC systems such as Aurora.
+Additionally, he plays an active role in shaping the direction of HPC, serving on technical computing advisory boards, presenting seminars at several ASCR Advisory Committee Meetings, co-chairing multiple ASCR workshops, and contributing to DOE ASCR reports on requirements for software, data management, and energy efficiency. He has received numerous awards, including a DOE Early Career award (2004), the DOE Ernest Orlando Lawrence award (2020), and the Secretary of DOE Honors award (2024), and is an ACM Fellow.
+
 
 
 ## Keynote 3: [Laura Biven](https://orcid.org/0000-0002-5755-8449)
