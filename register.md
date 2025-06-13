@@ -12,7 +12,7 @@ Registration is now open. Registrations will be online only. You can register at
 All fees are in US Dollars. 
 
 <h4>What's included in the registration?</h4> 
-Registration includes breakfast, lunch, and coffee breaks with refreshments on all three days. On day 1 of the conference, there will be a reception at the Columbus Zoo, which is included in the registration. <br>
+Registration includes breakfast, lunch, and coffee breaks with refreshments on all three days. On day 1 of the conference, there will be a reception at the Center of Science and Industry (COSI), which is included in the registration. <br>
 
 
 |                  | Early (Until May 9th) | After May 9th  |
