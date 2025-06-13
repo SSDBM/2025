@@ -41,7 +41,7 @@ layout: default
 |                      |                                                 | Raghav Mittal, Ayaan Kakkar, Mukesh Mohania, Ladjel Bellatreche and Yoshiharu Ishikawa | Enriching Spatial Indexes For User-Centric And Context-Aware Points Of Interest Search                 |
 |                      |                                                 | Hyungro Lee, Jesun Firoz, Lenny Guo, Meng Tang and Nathan Tallent                                      | Rapid Workflow Response with Data Flow Scheduling & Resource Assignment                                |
 |                      |                                                 |                                                                                                        |                                                                                                        |
-| 6:00 pm to 9:00 pm   | Welcome reception                               |
+| 6:00 pm to 9:00 pm   |                              | Welcome Reception at <a href="https://cosi.org/exhibits/classic-exhibits/progress">COSI, Progress exhibit</a>  
 
 ### Day 2 (Tuesday, June 24th) Overview
 
