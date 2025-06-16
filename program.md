@@ -3,7 +3,7 @@ title: Program
 layout: default
 ---
 
-# Program (Preliminary)
+# Program
 
 <style scoped>
     table
@@ -24,7 +24,7 @@ layout: default
 | Time slot            | Session                                         | Speakers                                                                                               | Title                                                                                                  |
 | -------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | 8:00 am to 9:00 am   | Registration and Breakfast                      |
-| 9:00 am to 9:15 am   | Opening session                                 | Suren Byna, OSU CSE, TDAI                                                                              | Welcome                                                                                                |
+| 9:00 am to 9:15 am   | Opening session                                 | Suren Byna, Eric Fosler-Lussier, Raghu Machiraju (CSE), and Cathie Smith (TDAI)                                                                              | Welcome                                                                                                |
 | 9:15 am to 10:15 am  | Keynote - Day 1                                 | Manish Parashar, University of Utah                                                                    | <a href="https://ssdbm.org/2025/keynotes">Catalyzing the Transformative Impact of Open Science Data </a>                                              |
 | 10:15 am to 10:45 am | Coffee Break                                    |
 | 10:45 am to 12:15 pm | Regular papers - Session 1 - Big Data Analysis  | Abhay Goyal, Sanjay Madria and Samuel Frimpong                                                         | OGLe-Mine: Obstacle-infused Goal-conditioned Learning for Post-disaster Navigation in Underground Mine |
