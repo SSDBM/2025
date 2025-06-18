@@ -10,7 +10,7 @@ The accepted posters were peer-reviewed by the SSDBM 2025 posters program commit
 **Addressing I/O Challenges in Time Frame Transformations: A Case Study of WarpX Simulations**
 _Junmin Gu, Kesheng Wu, Axel Huebl, Jean-Luc Vay, Alexander Sim, Norbert Podhorszki and Scott Klasky._
 
-**Scalable Location Prediction of Miners using Hierarchical Temporal Graph Attention Model in Underground Mine**
+[**Scalable Location Prediction of Miners using Hierarchical Temporal Graph Attention Model in Underground Mine**](./assets/poster/9850-Goyal.pdf)
 _Abhay Goyal, Sanjay Madria and Samuel Frimpong._
 
 **Automatic Metadata Capture and Processing for High-Performance Workflows**
