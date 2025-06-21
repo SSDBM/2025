@@ -74,7 +74,9 @@ layout: default
 | 10:30 am to 12:00 pm | Session 7: Regular papers (Chair: Bogdan Nicolae) | Geetesh More, Suprio Ray and Kenneth B. Kent                                                                               | FALCON: FPGA Accelerated Lightweight Updatable Learned Index                                  |
 |                      |                                       | Shang-Lin Li and Tung-Wei Kuo                                                                                              | Amortized Cost in Graph Reordering: Why BFS Ordering Deserves More Attention                  |
 |                      |                                       | Aliza Lisan, Tapasya Patki, Stephanie Brink, Konstantinos Parasyris, Brian Gunnarson, Giorgis Georgakoudis and Hank Childs | Enabling Lightweight Performance Analysis of Complex Scientific Workflows with PerfFlowAspect |
-| 12:00 pm to 1:30 pm  | Lunch                                 |
+| 12:00 pm to 12:15 pm |                                       | Suren Byna and Jay Lofstead | Awards and SSDBM 2026 Announcements |
+
+| 12:15 pm to 1:30 pm  | Lunch                                 |
 | 1:30 pm to 2:30 pm   | Panel                      | Moderator: Alfredo Cuzzocrea  | Vector Databases for Modelling, Managing and Querying Big Scientific Data: Models, Issues, Paradigms     |
 |                      |                                       |                                                                                                                            |                                                                                               |
 | 2:30 pm to 3:00 pm   | Session 8: Short papers (Chair: Suren Byna)  | Sarah Neuwirth, Hariharan Devarajan, Chen Wang and Jay Lofstead                                                            | XIO: Toward eXplainable I/O for HPC Systems                                                   |
@@ -84,7 +86,7 @@ layout: default
 |                      |                                       | Yoojin Choi, Juhee Han, Kyoseung Koo and Bongki Moon                                                                       | Jovis: A Visualization Tool for PostgreSQL Query Optimizer                                    |
 |                      |                                       | Kallol Naha and Hasan Jamil                                                                                                | Abstract Visual Scientific Workflow Design using VisFlow 2.0                                  |
 |                      |                                       | Louis-Marie Nicolas, Salim Mimouni, Philippe Couvée and Jalil Boukhobza                                                    | Investigating the Use of File Advisory Hints on Lustre and GPFS                               |
-| 4:30 PM              | Closing and next year                 |
+| 4:30 PM              | SSDBM Committee                 | Closing |
 
 <!-- # Research Sessions -->
 
