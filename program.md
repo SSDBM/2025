@@ -35,7 +35,7 @@ layout: default
 |                      |                                                 | Md Hasan Hafizur Rahman, Jonathan Flores, Lawrence Spear, Lan Li and Hasan Jamil                       | Potency of Latent Spaces in Inverse Quantum Dye Design                                                 |
 |                      |                                                 | Yaojie Hu, Ilias Fountalis, Jin Tian and Nikolaos Vasiloglou                                           | Scalable Tabular Dataset Labeling with Language Models                                                 |
 |                      |                                       | Eleni Adamidi, Panayiotis Deligiannis, Nikos Foutris and Thanasis Vergoulis                                                | A Virtual Laboratory for Managing Computational Experiments                                   |
-|                      |                                                 | Zhaobin Zhu, Chen Wang and Sarah Neuwirth                                                              | Advancing HPC Performance Modeling with an Interactive, Automated and Tool-Agnostic ML-Driven Workflow |
+|                      |                                                 | Sarah Neuwirth, Hariharan Devarajan, Chen Wang and Jay Lofstead  | XIO: Toward eXplainable I/O for HPC Systems  |
 | 3:00 pm to 3:30 pm   | Coffee Break                                    |
 | 3:30 pm to 5:00 pm   | Session 3: Regular papers  (Chair: Chen Wang)   | Lam Do, Oghap Kim, Chloe Chai and Ashwin Lall                                                          | The Power of Two: Simplified User Interaction for the Indistinguishability Query  (Best Paper Finalist)                     |
 |                      |                                                 | Raghav Mittal, Ayaan Kakkar, Mukesh Mohania, Ladjel Bellatreche and Yoshiharu Ishikawa | Enriching Spatial Indexes For User-Centric And Context-Aware Points Of Interest Search                 |
@@ -77,7 +77,7 @@ layout: default
 | 12:00 pm to 12:15 pm |                                       | Suren Byna and Jay Lofstead | Awards and SSDBM 2026 Announcements |
 | 12:15 pm to 1:30 pm | Lunch                                      |  |  |
 | 1:30 pm to 2:30 pm | Panel                                      | Moderator: Alfredo Cuzzocrea | Vector Databases for Modelling, Managing and Querying Big Scientific Data: Models, Issues, Paradigms |
-| 2:30 pm to 3:00 pm | Session 8: Short papers (Chair: Suren Byna)    | Sarah Neuwirth, Hariharan Devarajan, Chen Wang and Jay Lofstead  | XIO: Toward eXplainable I/O for HPC Systems  |
+| 2:30 pm to 3:00 pm | Session 8: Short papers (Chair: Suren Byna)    |Zhaobin Zhu, Chen Wang and Sarah Neuwirth                                                              | Advancing HPC Performance Modeling with an Interactive, Automated and Tool-Agnostic ML-Driven Workflow |
 |                    |                                                | Arnab Nandi, Wei-Lun Chao, Rongjun Qin, Carl Boettiger, Hilmar Lapp and Tanya Berger-Wolf  |  OmniMesh: Addressing Findability Challenges in Distributed Biodiversity Repositories [Vision] |
 | 3:00 pm to 3:30 pm  | Coffee Break                                       | | |
 | 3:30 pm to 4:30 pm   | Session 9: Short & Demo papers (Chair: Suren Byna)  | Daichi Amagata, Aoyama Kazuyoshi, Keito Kido and Sumio Fujita                                                              | Approximate Reverse k-Ranks Queries in High Dimensions                                        |
