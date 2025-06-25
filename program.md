@@ -5,6 +5,8 @@ layout: default
 
 # Program
 
+# <a href="https://dl.acm.org/doi/proceedings/10.1145/3733723">SSDBM 2025 Proceedings</a>
+
 <style scoped>
     table
     {
