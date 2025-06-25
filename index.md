@@ -16,6 +16,7 @@ SSDBM 2025 will be hosted by The Ohio State University in Columbus, Ohio. The co
 
 
 ## Announcements
+- <a href="https://dl.acm.org/doi/proceedings/10.1145/3733723">SSDBM 2025 Proceedings</a>
 - [Registration](register.html) site is Open. Early bird registration ends on May 9th.
 - <a href="https://ssdbm.org/2025/program">Advance Program</a> has been announced.
 - [Accepted papers](accepted-papers.html) and [Accepted posters](accepted-posters.html) have been announced.
